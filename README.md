@@ -1,1 +1,1 @@
-# Learning hot tu use assembly on a Raspberry Pi
+# Learning how to use assembly on a Raspberry Pi
